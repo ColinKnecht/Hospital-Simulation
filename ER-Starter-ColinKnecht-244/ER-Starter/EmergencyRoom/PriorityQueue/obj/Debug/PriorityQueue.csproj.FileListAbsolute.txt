@@ -1,0 +1,20 @@
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.exe
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\PriorityQueue\obj\Debug\PriorityQueue.exe
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\PriorityQueue\obj\Debug\PriorityQueue.pdb
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.exe
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.pdb
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\PriorityQueue\obj\Debug\PriorityQueue.exe
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\PriorityQueue\obj\Debug\PriorityQueue.pdb
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.exe
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.pdb
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\PriorityQueue\obj\Debug\PriorityQueue.exe
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\PriorityQueue\obj\Debug\PriorityQueue.pdb
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.exe
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\PriorityQueue\obj\Debug\PriorityQueue.exe
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\PriorityQueue\obj\Debug\PriorityQueue.pdb

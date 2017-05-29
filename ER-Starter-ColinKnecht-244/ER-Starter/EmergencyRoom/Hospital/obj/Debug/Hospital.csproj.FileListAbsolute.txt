@@ -1,0 +1,33 @@
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\Hospital\bin\Debug\Hospital.exe
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\Hospital\bin\Debug\Hospital.pdb
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.exe
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.pdb
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\Hospital\obj\Debug\Hospital.exe
+C:\Users\anderson\documents\visual studio 2013\Projects\EmergencyRoom\Hospital\obj\Debug\Hospital.pdb
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\Hospital\bin\Debug\Hospital.exe.config
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\Hospital\bin\Debug\Hospital.exe
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\Hospital\bin\Debug\Hospital.pdb
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.exe
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.pdb
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\Hospital\obj\Debug\Hospital.exe
+H:\Visual Studio 2013\Projects\ER\EmergencyRoom\Hospital\obj\Debug\Hospital.pdb
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\Hospital\bin\Debug\Hospital.exe.config
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\Hospital\obj\Debug\Hospital.exe
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\Hospital\obj\Debug\Hospital.pdb
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\Hospital\bin\Debug\Hospital.exe
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\Hospital\bin\Debug\Hospital.pdb
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.exe
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.pdb
+H:\Visual Studio 2013\Projects\ER-Starter\EmergencyRoom\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\bin\Debug\Hospital.exe
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\bin\Debug\Hospital.pdb
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.exe
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.pdb
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\bin\Debug\PriorityQueue.exe.config
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\obj\Debug\Hospital.exe
+C:\Users\lori\Desktop\ER-Starter\ER-Starter\EmergencyRoom\Hospital\obj\Debug\Hospital.pdb
